@@ -1,0 +1,2 @@
+colab-virtual-desktop>=1.0.0
+ipywidgets>=7.6.0
